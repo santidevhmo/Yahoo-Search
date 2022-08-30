@@ -9,7 +9,7 @@ Front-end website made with HTML, CSS, and Bootstrap
 
 ## Demo
 
-![Sample Gif](Demo.gif)
+![Sample Gif](YahooSearchDemo.gif)
 
 ## Feedback
 
